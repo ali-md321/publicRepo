@@ -1,0 +1,2 @@
+Hello this is to set default Git remote
+
